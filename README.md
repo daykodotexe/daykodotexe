@@ -1,6 +1,6 @@
-## Hi, I’m dayko
+Hi, I’m dayko
 
-I build practical tools and data-driven systems using Python.
+I build practical tools using Python.
 
 **Tools**
 - Backend: Python (FastAPI), Node.js
