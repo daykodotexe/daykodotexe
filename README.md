@@ -1,9 +1,8 @@
-Hi, I’m dayko
+backend: python (fastapi), node.js
+security: log analysis & anomaly detection
+data/ML: pandas, pytorch, scikit-learn
+frontend: react
 
-I build practical tools using Python.
-
-**Tools**
-- Backend: Python (FastAPI), Node.js
-- Data & ML: Pandas, PyTorch, classical ML
-- Security: Log analysis, anomaly detection
-- Frontend: React
+how to reach me:
+email: amanovvdayanch@gmail.com
+instagram: @dayko.exe
